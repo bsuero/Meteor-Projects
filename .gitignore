@@ -49,3 +49,5 @@ Temporary Items
 #ignore java.class
 *.class
 
+#ignore node_modules
+node_modules/
